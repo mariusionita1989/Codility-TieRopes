@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codility-TieRopes", "Codility-TieRopes\Codility-TieRopes.csproj", "{687026F0-5B69-4C08-BFA6-6E42906B51DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codility-TieRopesTests", "Codility-TieRopesTests\Codility-TieRopesTests.csproj", "{90192FA5-B845-439A-AE33-8749B6E0C4FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{687026F0-5B69-4C08-BFA6-6E42906B51DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{687026F0-5B69-4C08-BFA6-6E42906B51DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{687026F0-5B69-4C08-BFA6-6E42906B51DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{687026F0-5B69-4C08-BFA6-6E42906B51DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90192FA5-B845-439A-AE33-8749B6E0C4FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90192FA5-B845-439A-AE33-8749B6E0C4FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90192FA5-B845-439A-AE33-8749B6E0C4FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90192FA5-B845-439A-AE33-8749B6E0C4FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38E89356-9FB5-4B63-897E-CEBF1C74225D}
+	EndGlobalSection
+EndGlobal
